@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I’m Daniel Njoku<br>Backend Engineer | Python | Cloud & Docker | AI/ML | Full-Stack & Mobile<br><br>I’m a backend-focused software engineer specializing in building scalable, high-performance systems using Python and modern cloud-native practices.<br><br>My core expertise is in backend architecture, API engineering, and system scalability, working primarily with Flask, Django, and FastAPI. I design and deploy cloud-ready, containerized applications using Docker, and I’m comfortable taking products from idea → implementation → deployment.<br><br>While backend is my primary focus, I’ve delivered multiple end-to-end freelance projects, handling both backend and frontend when required. This includes web frontends with React and Next.js, and mobile applications using React Native and Flutter, all powered by scalable backend APIs.<br><br>I also work with AI & Machine Learning, building and integrating models using PyTorch, and deploying them as production-ready services.<br><br>🧠 Core Skills<br>Backend & APIs<br><br>Python<br><br>Flask, Django, FastAPI<br><br>RESTful & Async API Design<br><br>Authentication & Authorization<br><br>Database Design & Optimization<br><br>Cloud & DevOps<br><br>Cloud Architecture & Deployment<br><br>Docker & Containerization<br><br>CI/CD Concepts<br><br>Linux Environments<br><br>AI & Machine Learning<br><br>PyTorch<br><br>Model Integration & Deployment<br><br>AI-powered APIs<br><br>Frontend & Mobile<br><br>React<br><br>Next.js<br><br>React Native<br><br>Flutter<br><br>Engineering Practices<br><br>System Design<br><br>Performance Optimization<br><br>Git & Version Control , 📌 What I Focus On<br><br>Writing clean, maintainable backend code<br><br>Designing scalable cloud architectures<br><br>Building APIs that are easy to consume and extend<br><br>Delivering production-ready systems, not just demos<br><br>📫 Let’s Connect<br><br>LinkedIn: (add your LinkedIn URL)<br><br>Portfolio / Website: (optional)<br><br>Email: (optional)<br><br>⚡ Fun Fact (Optional)<br><br>I enjoy turning complex backend problems into simple, scalable solutions.<br><br>🔥 Pro Tips (Do This for Maximum Impact)<br><br>Pin 2–3 strong backend repos<br><br>Make sure each repo has:<br><br>README<br><br>Dockerfile / docker-compose<br><br>Clear commit history<br><br>Keep this README simple and honest<br><br>If you want, next I can:<br><br>Customize this README for AI-focused roles<br><br>Make a more senior / cloud-heavy version<br><br>Review your pinned repos layout<br><br>Write README templates for each project<br><br>Just tell me 👍
 
-<!--
-**danielemmzy/danielemmzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/dannyell99.bsky.social) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=danielemmzy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=danielemmzy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielemmzy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=danielemmzy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
