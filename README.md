@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Njoku</h1>
 <h3 align="center">
-Backend Engineer | Python | Cloud & Kubernetes | AI/ML | Full-Stack | System designs
+Backend Engineer | Python | Cloud & Kubernetes | ML/Gen AI | Full-Stack | System designs
 </h3>
 
 <p align="center">
