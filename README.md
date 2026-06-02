@@ -11,7 +11,7 @@ I build <b>scalable, high-performance backend systems</b> using Python and cloud
 
 ## 🚀 About Me
 
-I’m a **backend-focused software engineer** specializing in **API engineering,**Generative AI** system scalability, and cloud-ready architectures**.
+I’m a **backend-focused software engineer** specializing in **API engineering,**Generative AI** system scalability, devops and cloud-ready architectures**.
 
 My core expertise is in **backend development with Python**, working primarily with **Flask, Django, and FastAPI** to design clean, maintainable, and production-ready systems. I containerize and deploy applications using **Docker**, ensuring consistency across development and production environments.
 
