@@ -19,6 +19,7 @@ While backend is my primary strength, I have delivered **end-to-end freelance pr
 - 🌐 Web frontends with **React & Next.js**
 - 📱 Mobile applications using **React Native & Flutter**
 - ☁️ Scalable APIs powering both platforms
+- 👨🏻‍💻 Devops and Cloud Engineering Expertise
 
 I also work with **AI & Machine Learning**, building and integrating models using **PyTorch**, and deploying them as **production-ready APIs**.
 
