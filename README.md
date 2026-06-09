@@ -15,7 +15,7 @@ I’m a **backend-focused software engineer** specializing in **API engineering,
 
 My core expertise is in **backend development with Python**, working primarily with **Flask, Django, and FastAPI** to design clean, maintainable, and production-ready systems. I containerize and deploy applications using **Docker**, ensuring consistency across development and production environments.
 
-While backend is my primary strength, I have delivered **end-to-end freelance projects**, handling both backend and frontend when required. This includes:
+While backend is my primary strength, I have delivered **end-to-end freelance projects**, handling both backend, frontend and deployment when required. This includes:
 - 🌐 Web frontends with **React & Next.js**
 - 📱 Mobile applications using **React Native & Flutter**
 - ☁️ Scalable APIs powering both platforms
