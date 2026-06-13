@@ -4,7 +4,7 @@ Backend Engineer | Python | Devops | ML/Gen AI | Full-Stack | System designs | A
 </h3>
 
 <p align="center">
-I build <b>scalable, high-performance backend systems</b> using Python and cloud-native technologies.
+I build <b>scalable, high-performance backend systems</b> using Python and cloud-native technologies using AWS and Google Cloud services and lots more.
 </p>
 
 ---
