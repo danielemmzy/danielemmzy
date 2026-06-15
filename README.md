@@ -9,7 +9,7 @@ I build <b>scalable, high-performance backend systems</b> using Python and cloud
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me**
 
 I’m a **backend-focused software engineer** specializing in **API engineering,**Generative AI** system scalability, devops and cloud-ready architectures**.
 
