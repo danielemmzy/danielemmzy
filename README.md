@@ -21,7 +21,7 @@ While backend is my primary strength, I have delivered **end-to-end freelance pr
 - ☁️ Scalable APIs powering both platforms
 - 👨🏻‍💻 Devops and Cloud Engineering Expertise
 
-I also work with **AI & Machine Learning**, building and integrating models using **PyTorch**, and deploying them as **production-ready APIs**.
+I also work with **AI & Machine Learning/ Deeplearning and Generative AI**, building and integrating models using **PyTorch**, and deploying them as **production-ready APIs**.
 
 ---
 
