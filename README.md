@@ -38,7 +38,7 @@ I also work with **AI & Machine Learning/ Deeplearning and Generative AI**, buil
 - Cloud Architecture & Deployment  
 - Docker & Containerization  
 - CI/CD Concepts  
-- Linux Environments  
+- Linux Environment  
 
 ### 🤖 AI & Machine Learning
 - PyTorch  
